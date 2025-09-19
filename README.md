@@ -25,27 +25,27 @@ Impact Chain is a blockchain-based platform designed to facilitate transparent, 
 ### Installation
 
 1. **Clone the repository:**
-   ```sh
-   git clone <repo-url>
-   cd Impact-Chain-main
-   ```
+	```sh
+	git clone <repo-url>
+	cd Impact-Chain-main
+	```
 2. **Install dependencies:**
-   ```sh
-   cd backend && npm install
-   cd ../client && npm install
-   ```
+	```sh
+	cd backend && npm install
+	cd ../client && npm install
+	```
 3. **Compile contracts:**
-   ```sh
-   npx hardhat compile
-   ```
+	```sh
+	npx hardhat compile
+	```
 4. **Run backend:**
-   ```sh
-   cd backend && npm start
-   ```
+	```sh
+	cd backend && npm start
+	```
 5. **Run frontend:**
-   ```sh
-   cd client && npm run dev
-   ```
+	```sh
+	cd client && npm run dev
+	```
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
